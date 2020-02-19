@@ -15,7 +15,7 @@ This workshop is designed for bla bla bla
 
 ## Start
 
-The workshop documentation and content is located [here](https://iotlabtpe.github.io/iotlab_workshop/)
+The workshop documentation and content is located [here](https://DanielYEHsieh.github.io/iotlab_workshop/)
 
 
 # Disclaimer
